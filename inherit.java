@@ -1,0 +1,2 @@
+inherit.java
+test3
