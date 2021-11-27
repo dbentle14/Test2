@@ -8,7 +8,7 @@ var str = "This is a string"
 console.log(str);
 console.log(typeof str);
 
-// array
+// Array
 var cars = ["Honda", "Volvo", "BMW"];
 console.log(cars);
 console.log(typeof cars);
@@ -18,6 +18,7 @@ var obj = {name: 'Jon', City: 'NY'};
 console.log(obj);
 console.log(typeof obj);
 
+// Undefined
 var u;
 console.log(u);
 console.log(typeof u);
