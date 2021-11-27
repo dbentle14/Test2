@@ -21,3 +21,8 @@ console.log(typeof obj);
 var u;
 console.log(u);
 console.log(typeof u);
+
+// null
+var n = null;
+console.log(n);
+console.log(typeof n);
